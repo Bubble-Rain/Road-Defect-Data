@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>hitachiota07_20190619095440.jpg</filename>
+	<path>/home/ubuntu/Desktop/RDDataset_2019-a_kashiyama/images/hitachiota07_20190619095440.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>250</ymin>
+			<xmax>513</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

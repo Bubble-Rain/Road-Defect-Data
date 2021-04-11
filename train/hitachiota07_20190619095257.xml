@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>hitachiota07_20190619095257.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>D00</name>
+    <bndbox>
+      <xmin>135</xmin>
+      <ymin>385</ymin>
+      <xmax>200</xmax>
+      <ymax>501</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>D00</name>
+    <bndbox>
+      <xmin>144</xmin>
+      <ymin>272</ymin>
+      <xmax>233</xmax>
+      <ymax>372</ymax>
+    </bndbox>
+  </object>
+</annotation>
