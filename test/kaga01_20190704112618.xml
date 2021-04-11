@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>kaga01_20190704112618.jpg</filename>
+	<path>/home/ubuntu/Desktop/RDDataset_2019-a/images/kaga01_20190704112618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>494</ymin>
+			<xmax>87</xmax>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>
