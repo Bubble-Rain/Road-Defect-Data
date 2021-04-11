@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>otsu01_20190822102408.jpg</filename>
+	<path>/home/ubuntu/Desktop/RDDataset_2019-a/images/otsu01_20190822102408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>403</ymin>
+			<xmax>383</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>otsu01_20190802141322.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>D50</name>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>343</ymin>
+      <xmax>91</xmax>
+      <ymax>354</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>D40</name>
+    <bndbox>
+      <xmin>245</xmin>
+      <ymin>303</ymin>
+      <xmax>276</xmax>
+      <ymax>320</ymax>
+    </bndbox>
+  </object>
+</annotation>

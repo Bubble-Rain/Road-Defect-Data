@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>shinagawa01_20190515140935.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>D50</name>
+    <bndbox>
+      <xmin>206</xmin>
+      <ymin>340</ymin>
+      <xmax>259</xmax>
+      <ymax>357</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>D00</name>
+    <bndbox>
+      <xmin>521</xmin>
+      <ymin>333</ymin>
+      <xmax>598</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+</annotation>

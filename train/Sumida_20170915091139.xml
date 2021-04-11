@@ -1,0 +1,13 @@
+<annotation>
+	<folder>pickup</folder>
+	<filename>Sumida_20170915091139.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

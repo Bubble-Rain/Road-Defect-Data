@@ -1,0 +1,25 @@
+<annotation>
+	<folder>pickup</folder>
+	<filename>Muroran_20170911092314.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D40</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>326</xmin>
+			<ymin>425</ymin>
+			<xmax>401</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

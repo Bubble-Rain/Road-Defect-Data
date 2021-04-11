@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shinagawa01_20190507152755.jpg</filename>
+	<path>/home/ubuntu/Desktop/RDDataset_2019-a/images/shinagawa01_20190507152755.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>487</ymin>
+			<xmax>520</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder>images</folder>
+	<filename>shinagawa01_20190508092328.jpg</filename>
+	<path>/home/ubuntu/Desktop/RDDataset_2019-a/images/shinagawa01_20190508092328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

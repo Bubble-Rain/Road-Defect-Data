@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Nagakute_20170911094251.jpg</filename>
+	<path>/home/ubuntu/dataset/dataset/images/Nagakute_20170911094251.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D00</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>424</ymin>
+			<xmax>192</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

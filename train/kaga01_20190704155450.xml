@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>kaga01_20190704155450.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>D00</name>
+    <bndbox>
+      <xmin>228</xmin>
+      <ymin>392</ymin>
+      <xmax>273</xmax>
+      <ymax>456</ymax>
+    </bndbox>
+  </object>
+</annotation>

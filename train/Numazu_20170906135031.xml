@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Numazu_20170906135031.jpg</filename>
+	<path>/home/ubuntu/dataset/dataset/images/Numazu_20170906135031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>D10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>467</ymin>
+			<xmax>316</xmax>
+			<ymax>496</ymax>
+		</bndbox>
+	</object>
+</annotation>

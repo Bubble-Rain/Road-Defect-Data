@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>otsu01_20190802140259.jpg</filename>
+  <size>
+    <depth>3</depth>
+    <width>600</width>
+    <height>600</height>
+  </size>
+  <object>
+    <name>D20</name>
+    <bndbox>
+      <xmin>309</xmin>
+      <ymin>361</ymin>
+      <xmax>490</xmax>
+      <ymax>586</ymax>
+    </bndbox>
+  </object>
+</annotation>
